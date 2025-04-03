@@ -1,0 +1,2 @@
+# wazuh-assets
+Wazuh assets
